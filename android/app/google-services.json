@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "732123854228",
+    "project_id": "played-prd-847e9",
+    "storage_bucket": "played-prd-847e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732123854228:android:ac42454e2927e0268c4b81",
+        "android_client_info": {
+          "package_name": "com.plaria.played"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUs7ZRhsmdpYhgXv4FGyhBd2YbIL8K3Jw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
